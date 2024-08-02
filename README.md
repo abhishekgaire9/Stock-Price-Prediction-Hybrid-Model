@@ -5,18 +5,18 @@ This project involves the realtime analysis of stock prices using technical indi
 Key Features Include:
 
 # Comprehensive Technical Analysis:
-      Integration of multiple technical indicators, such as moving averages, RSI, MACD, and Bollinger Bands, to provide a robust analysis of stock trends.
+Integration of multiple technical indicators, such as moving averages, RSI, MACD, and Bollinger Bands, to provide a robust analysis of stock trends.
       
 # Sentiment Analysis: 
-      Extraction and analysis of investor opinions from social media platforms and news sources to gauge market sentiment and its impact on stock prices.
+Extraction and analysis of investor opinions from social media platforms and news sources to gauge market sentiment and its impact on stock prices.
 # Deep Neural Networks: 
-      Application of advanced deep learning techniques to model and predict stock price movements with high accuracy.
+Application of advanced deep learning techniques to model and predict stock price movements with high accuracy.
 # Real-time Data Processing:
-      Continuous updating of stock data and predictions to ensure the most current information is available to users.
+Continuous updating of stock data and predictions to ensure the most current information is available to users.
 # Interactive Visualizations:
-      User-friendly dashboards and visual tools to display stock trends, predictions, and sentiment analysis, enhancing the decision-making process.
+User-friendly dashboards and visual tools to display stock trends, predictions, and sentiment analysis, enhancing the decision-making process.
 # Scalability:
-      Designed to handle large volumes of data and perform complex calculations efficiently.
+Designed to handle large volumes of data and perform complex calculations efficiently.
 
 
 
