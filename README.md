@@ -24,6 +24,7 @@ Designed to handle large volumes of data and perform complex calculations effici
 
 Required Packages
 -  python 3
+-  tensorflow
 -  numpy
 -  scipy
 -  jupyter (optional: to run jupyter notebooks)
